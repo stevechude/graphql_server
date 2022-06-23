@@ -1,0 +1,46 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "john doe",
+      "email": "jdoe@gmail.com",
+      "age": 31
+    },
+    {
+      "id": "2",
+      "name": "sam smith",
+      "email": "sam@gmail.com",
+      "age": 41
+    },
+    {
+      "id": "3",
+      "name": "madagascar jake",
+      "email": "nike@gmail.com",
+      "age": 46
+    },
+    {
+      "id": "4",
+      "name": "johnny olugbodi",
+      "email": "johnny@gmail.com",
+      "age": 29
+    },
+    {
+      "id": "6",
+      "name": "peter abisayo",
+      "email": "peter@gmail.com",
+      "age": 30
+    },
+    {
+      "name": "steve kelly",
+      "email": "kelly@gmail.com",
+      "age": 29,
+      "id": "05X5N04"
+    },
+    {
+      "name": "steve kelly",
+      "email": "kelly@gmail.com",
+      "age": 29,
+      "id": "wQOJoni"
+    }
+  ]
+}
